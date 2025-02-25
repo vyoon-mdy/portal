@@ -1,4 +1,4 @@
-module github.com/vyoon-mdy/portal
+module github.com/vyoon-mdy/portal/ECOM
 
 go 1.23.4
 
